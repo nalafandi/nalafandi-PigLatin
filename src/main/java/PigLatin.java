@@ -21,6 +21,6 @@ public class PigLatin {
         String newIn = in.substring(1);
         String ay = "ay";
         
-        return newIn+firstChar+ay;
+        return newIn + firstChar + ay;
     }
 }
